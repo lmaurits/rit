@@ -1,4 +1,4 @@
 rit
 ===
 
-A tool for improving writing
+A tool for making writing gooder.
